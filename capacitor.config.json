@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "instagram",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
